@@ -15,4 +15,4 @@ And below, the program itself, also attached. Note that the highlighted item, wh
 
 <img src="https://github.com/aluis-rcastro/AI2_ANDROID_SIMPLE_TCP_CLIENT_EXTENSION/blob/master/res/Project.png" alt="" width="555" height="333">
 
-Feel free to conduct experiments and give feedback.
+Feel free to make experiments, and give feedback.
